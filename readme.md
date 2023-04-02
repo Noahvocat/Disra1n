@@ -1,3 +1,5 @@
+ ![alt text](https://cdn.discordapp.com/attachments/1092082918773489674/1092108240919199794/407B211E-FE99-4AB4-B9E1-A32D2FDA67F6.png) 
+
 # Welcome to Disra1n github page
 Disra1n is a jailbreak made for Discord's AI (Clyde).
 It was made for fun but you can always use it.
